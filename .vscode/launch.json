@@ -1,0 +1,237 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PackagesUse",
+            "request": "launch",
+            "mainClass": "oops.PackagesUse",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PackageUsedHere",
+            "request": "launch",
+            "mainClass": "PackageUsedHere",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritedClass",
+            "request": "launch",
+            "mainClass": "OOPS.InheritedClass",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritedClass",
+            "request": "launch",
+            "mainClass": "InheritedClass",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Guestcall",
+            "request": "launch",
+            "mainClass": "Guestcall",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlaceTiles",
+            "request": "launch",
+            "mainClass": "PlaceTiles",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountPaths",
+            "request": "launch",
+            "mainClass": "CountPaths",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringPurmutaion",
+            "request": "launch",
+            "mainClass": "StringPurmutaion",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch NokiaKeyboard",
+            "request": "launch",
+            "mainClass": "NokiaKeyboard",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubSequences",
+            "request": "launch",
+            "mainClass": "SubSequences",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveAllx",
+            "request": "launch",
+            "mainClass": "MoveAllx",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsArraySorted",
+            "request": "launch",
+            "mainClass": "IsArraySorted",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharaterOccurance",
+            "request": "launch",
+            "mainClass": "CharaterOccurance",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringreverseRecurs",
+            "request": "launch",
+            "mainClass": "StringreverseRecurs",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatePowerRecursion",
+            "request": "launch",
+            "mainClass": "CalculatePowerRecursion",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacciRecursion",
+            "request": "launch",
+            "mainClass": "FibonacciRecursion",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorialrecusrion",
+            "request": "launch",
+            "mainClass": "Factorialrecusrion",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursionSum",
+            "request": "launch",
+            "mainClass": "RecursionSum",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberConverter",
+            "request": "launch",
+            "mainClass": "NumberConverter",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountOneInNumber",
+            "request": "launch",
+            "mainClass": "CountOneInNumber",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitManupulation",
+            "request": "launch",
+            "mainClass": "BitManupulation",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsLength",
+            "request": "launch",
+            "mainClass": "StringsLength",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMatrix",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java_practice_2023_d59660c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "internalConsoleOptions": "openOnSessionStart",
+            "mainClass": "${file}",
+            "console": "internalConsole",
+            "classPaths": [
+                "$Auto"
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
